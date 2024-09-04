@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/01-io/137-37-ztransformation/pom.xml" />
+        <option value="$PROJECT_DIR$/02-branch &amp; loop/139-39-binarytostring/pom.xml" />
+        <option value="$PROJECT_DIR$/02-branch &amp; loop/143-40-matrixrotate/pom.xml" />
+        <option value="$PROJECT_DIR$/02-branch &amp; loop/147-43-kth-largest-element/pom.xml" />
+        <option value="$PROJECT_DIR$/02-branch &amp; loop/145-41-testcsvfile/pom.xml" />
+        <option value="$PROJECT_DIR$/02-branch &amp; loop/170-59-badmatrix/pom.xml" />
+        <option value="$PROJECT_DIR$/02-branch &amp; loop/176-63-matrixcalculation/pom.xml" />
+        <option value="$PROJECT_DIR$/03-my-matrix/180-66-mymatrix/pom.xml" />
+        <option value="$PROJECT_DIR$/04-TicTactoe/397-simpletictactoe/pom.xml" />
+        <option value="$PROJECT_DIR$/05-NewTicTactoe/396-tictactoe/pom.xml" />
+        <option value="$PROJECT_DIR$/lab-01/400-jvm-lab01-commandlineutil/pom.xml" />
+        <option value="$PROJECT_DIR$/-before test/61-161-check_odd_even_java/pom.xml" />
+        <option value="$PROJECT_DIR$/-before test/122-301-lowhighswap/pom.xml" />
+        <option value="$PROJECT_DIR$/-before test/158-50-repeated-substring-pattern/pom.xml" />
+        <option value="$PROJECT_DIR$/-before test/173-61-10-happy-number/pom.xml" />
+        <option value="$PROJECT_DIR$/-before test/402-perm-java/pom.xml" />
+        <option value="$PROJECT_DIR$/lab-02/401-jvm-lab02-classfilereader/pom.xml" />
+        <option value="$PROJECT_DIR$/lab-03/421-jvm-lab03-classfileparser/pom.xml" />
+        <option value="$PROJECT_DIR$/-before test-3/66-20-good-map/pom.xml" />
+        <option value="$PROJECT_DIR$/-before test-3/124-303-torch/pom.xml" />
+        <option value="$PROJECT_DIR$/-before test-3/216-93-tortoise-hare-race/pom.xml" />
+        <option value="$PROJECT_DIR$/-before test-3/424-shop/pom.xml" />
+        <option value="$PROJECT_DIR$/01-io/131-34-currencyexchange/pom.xml" />
+        <option value="$PROJECT_DIR$/lab-04/423-jvm-lab04-classloader/pom.xml" />
+        <option value="$PROJECT_DIR$/lab-02-fix/401-jvm-lab02-classfilereader/pom.xml" />
+        <option value="$PROJECT_DIR$/lab-05/427-jvm-lab05-instructions/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_22" default="true" project-jdk-name="openjdk-22 (3)" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

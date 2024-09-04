@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="RepeatedSubstringPattern" />
+        <module name="MatrixRotate" />
+        <module name="HappyNumber" />
+        <module name="perm" />
+        <module name="TortoiseHareRace" />
+        <module name="BinaryToString" />
+        <module name="classloader" />
+        <module name="CurrencyCalculation" />
+        <module name="testCSVFile" />
+        <module name="MyMatrix" />
+        <module name="matrix-calculation" />
+        <module name="commandLineUtil" />
+        <module name="class-file-parser" />
+        <module name="SimpleTicTacToe" />
+        <module name="TicTacToe" />
+        <module name="class-file-reader" />
+        <module name="classloader (1)" />
+        <module name="LowHighSwap" />
+        <module name="BadMatrix" />
+        <module name="KthLargestElement" />
+        <module name="CheckOddEven" />
+        <module name="torch" />
+        <module name="Ztransformation" />
+        <module name="class-file-reader (1)" />
+        <module name="GoodMap" />
+        <module name="torch (1)" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>

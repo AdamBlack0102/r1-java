@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/-before test" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/-before test-3" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/01-io" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/02-branch &amp; loop" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/03-my-matrix" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/04-TicTactoe" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/05-NewTicTactoe" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/lab-01" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/lab-02" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/lab-02-fix" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/lab-03" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/lab-04" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/lab-05" vcs="Git" />
+  </component>
+</project>
